@@ -16,10 +16,6 @@ export default function Home() {
    <Work />
    <Con />
    <Footer />
-  
-   
- 
-
     </main>
   )
 }
