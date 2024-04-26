@@ -6,7 +6,7 @@ import Double from './components/double';
 export default function Design() {
   return (
     <main className={styles.main}>
-      <h1>I Make dope and compelling website</h1>
+      <h1>I Make dope and compelling websites</h1>
       <div className={styles.gallery}>
         <Double projects={[projects[0], projects[1]]}/>
         <Double projects={[projects[2], projects[3]]} reversed={true}/>
